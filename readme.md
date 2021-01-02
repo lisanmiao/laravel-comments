@@ -30,7 +30,7 @@
 ## Installation 
 
 ```bash 
-composer require tizis/lara-comments 
+composer require lisanmiao/lara-comments 
 ```   
 
 ### 1. Run migrations        
